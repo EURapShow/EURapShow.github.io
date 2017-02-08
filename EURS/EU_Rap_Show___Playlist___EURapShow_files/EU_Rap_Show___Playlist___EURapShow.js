@@ -1,19 +1,19 @@
 // Created by iWeb 3.0.4 local-build-20170208
 
-function createMediaStream_id3()
+function createMediaStream_id2()
 {return IWCreatePhotocast("http://EURS/EU_Rap_Show___Playlist___EURapShow_files/rss.xml",false);}
-function initializeMediaStream_id3()
-{createMediaStream_id3().load('http://EURS',function(imageStream)
-{var entryCount=imageStream.length;var headerView=widgets['widget0'];headerView.setPreferenceForKey(imageStream.length,'entryCount');NotificationCenter.postNotification(new IWNotification('SetPage','id3',{pageIndex:0}));});}
-function layoutMediaGrid_id3(range)
-{createMediaStream_id3().load('http://EURS',function(imageStream)
+function initializeMediaStream_id2()
+{createMediaStream_id2().load('http://EURS',function(imageStream)
+{var entryCount=imageStream.length;var headerView=widgets['widget0'];headerView.setPreferenceForKey(imageStream.length,'entryCount');NotificationCenter.postNotification(new IWNotification('SetPage','id2',{pageIndex:0}));});}
+function layoutMediaGrid_id2(range)
+{createMediaStream_id2().load('http://EURS',function(imageStream)
 {if(range==null)
 {range=new IWRange(0,imageStream.length);}
-IWLayoutPhotoGrid('id3',new IWPhotoGridLayout(5,new IWSize(128,128),new IWSize(128,48),new IWSize(134,191),27,27,0,new IWSize(2,2)),new IWEmptyStroke(),imageStream,range,null,null,1.000000,null,'Media/slideshow.html','widget0','widget1','widget2')});}
-function relayoutMediaGrid_id3(notification)
-{var userInfo=notification.userInfo();var range=userInfo['range'];layoutMediaGrid_id3(range);}
+IWLayoutPhotoGrid('id2',new IWPhotoGridLayout(5,new IWSize(128,128),new IWSize(128,48),new IWSize(134,191),27,27,0,new IWSize(2,2)),new IWEmptyStroke(),imageStream,range,null,null,1.000000,null,'Media/slideshow.html','widget0','widget1','widget2')});}
+function relayoutMediaGrid_id2(notification)
+{var userInfo=notification.userInfo();var range=userInfo['range'];layoutMediaGrid_id2(range);}
 function onStubPage()
-{var args=window.location.href.toQueryParams();parent.IWMediaStreamPhotoPageSetMediaStream(createMediaStream_id3(),args.id);}
+{var args=window.location.href.toQueryParams();parent.IWMediaStreamPhotoPageSetMediaStream(createMediaStream_id2(),args.id);}
 if(window.stubPage)
 {onStubPage();}
 setTransparentGifURL('Media/transparent.gif');function applyEffects()
@@ -24,8 +24,8 @@ function onPageLoad()
 {IWRegisterNamedImage('comment overlay','Media/Photo-Overlay-Comment.png')
 IWRegisterNamedImage('movie overlay','Media/Photo-Overlay-Movie.png')
 loadMozillaCSS('EU_Rap_Show___Playlist___EURapShow_files/EU_Rap_Show___Playlist___EURapShowMoz.css')
-adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');adjustLineHeightIfTooBig('id2');adjustFontSizeIfTooBig('id2');NotificationCenter.addObserver(null,relayoutMediaGrid_id3,'RangeChanged','id3')
-adjustLineHeightIfTooBig('id4');adjustFontSizeIfTooBig('id4');detectBrowser();adjustLineHeightIfTooBig('id5');adjustFontSizeIfTooBig('id5');adjustLineHeightIfTooBig('id6');adjustFontSizeIfTooBig('id6');adjustLineHeightIfTooBig('id7');adjustFontSizeIfTooBig('id7');adjustLineHeightIfTooBig('id8');adjustFontSizeIfTooBig('id8');adjustLineHeightIfTooBig('id9');adjustFontSizeIfTooBig('id9');adjustLineHeightIfTooBig('id10');adjustFontSizeIfTooBig('id10');adjustLineHeightIfTooBig('id11');adjustFontSizeIfTooBig('id11');adjustLineHeightIfTooBig('id12');adjustFontSizeIfTooBig('id12');adjustLineHeightIfTooBig('id13');adjustFontSizeIfTooBig('id13');adjustLineHeightIfTooBig('id14');adjustFontSizeIfTooBig('id14');adjustLineHeightIfTooBig('id15');adjustFontSizeIfTooBig('id15');fixAllIEPNGs('Media/transparent.gif');Widget.onload();IMpreload('EU_Rap_Show___Playlist___EURapShow_files','shapeimage_4','0');applyEffects()
-initializeMediaStream_id3()}
+adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');NotificationCenter.addObserver(null,relayoutMediaGrid_id2,'RangeChanged','id2')
+adjustLineHeightIfTooBig('id3');adjustFontSizeIfTooBig('id3');detectBrowser();adjustLineHeightIfTooBig('id4');adjustFontSizeIfTooBig('id4');adjustLineHeightIfTooBig('id5');adjustFontSizeIfTooBig('id5');adjustLineHeightIfTooBig('id6');adjustFontSizeIfTooBig('id6');adjustLineHeightIfTooBig('id7');adjustFontSizeIfTooBig('id7');adjustLineHeightIfTooBig('id8');adjustFontSizeIfTooBig('id8');adjustLineHeightIfTooBig('id9');adjustFontSizeIfTooBig('id9');adjustLineHeightIfTooBig('id10');adjustFontSizeIfTooBig('id10');adjustLineHeightIfTooBig('id11');adjustFontSizeIfTooBig('id11');adjustLineHeightIfTooBig('id12');adjustFontSizeIfTooBig('id12');adjustLineHeightIfTooBig('id13');adjustFontSizeIfTooBig('id13');adjustLineHeightIfTooBig('id14');adjustFontSizeIfTooBig('id14');fixAllIEPNGs('Media/transparent.gif');Widget.onload();IMpreload('EU_Rap_Show___Playlist___EURapShow_files','shapeimage_4','0');applyEffects()
+initializeMediaStream_id2()}
 function onPageUnload()
 {Widget.onunload();}

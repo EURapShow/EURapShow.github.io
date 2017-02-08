@@ -1,26 +1,4 @@
 .paragraph_style {
-    color: rgb(255, 255, 255);
-    font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 14px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 19px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_1 {
     color: rgb(4, 51, 255);
     font-family: 'Arial-BoldMT', 'Arial', sans-serif;
     font-size: 36px;
@@ -42,7 +20,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_2 {
+.paragraph_style_1 {
     color: rgb(1, 25, 147);
     font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
     font-size: 18px;
@@ -64,8 +42,30 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_3 {
+.paragraph_style_2 {
     color: rgb(4, 51, 255);
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_3 {
+    color: rgb(88, 77, 77);
     font-family: 'Arial-BoldMT', 'Arial', sans-serif;
     font-size: 15px;
     font-stretch: normal;
@@ -88,28 +88,6 @@
 }
 .paragraph_style_4 {
     color: rgb(88, 77, 77);
-    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
-    font-size: 15px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 700;
-    letter-spacing: 0;
-    line-height: 20px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_5 {
-    color: rgb(88, 77, 77);
     font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 10px;
     font-stretch: normal;
@@ -130,7 +108,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_6 {
+.paragraph_style_5 {
     color: rgb(105, 105, 105);
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 15px;
@@ -152,7 +130,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_7 {
+.paragraph_style_6 {
     color: rgb(255, 255, 255);
     font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 13px;
@@ -181,6 +159,28 @@
     font-style: normal;
     font-weight: 400;
     line-height: 24px;
+}
+.paragraph_style_7 {
+    color: rgb(255, 255, 255);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 11px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 28px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
 }
 .paragraph_style_8 {
     color: rgb(255, 255, 255);
@@ -230,28 +230,6 @@
 }
 .paragraph_style_9 {
     color: rgb(255, 255, 255);
-    font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 11px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 28px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_10 {
-    color: rgb(255, 255, 255);
     font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
     font-size: 13px;
     font-stretch: normal;
@@ -280,7 +258,7 @@
     font-weight: 400;
     line-height: 24px;
 }
-.paragraph_style_11 {
+.paragraph_style_10 {
     color: rgb(255, 126, 0);
     font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
     font-size: 12px;
@@ -302,7 +280,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_12 {
+.paragraph_style_11 {
     color: rgb(0, 0, 0);
     font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
     font-size: 12px;
@@ -324,7 +302,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_13 {
+.paragraph_style_12 {
     color: rgb(255, 255, 255);
     font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 13px;
@@ -449,22 +427,19 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_100_64 {
+.graphic_textbox_layout_style_default_External_471_53 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_169_150 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_471_53 {
+.graphic_textbox_layout_style_default_External_100_131 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_350_36 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_100_137 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_100_131 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_253_165 {
@@ -681,10 +656,6 @@ a:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
 }
-#widget2 a {
-    color: rgb(88, 77, 77);
-    text-decoration: underline;
-}
 #widget3 a {
     color: rgb(88, 77, 77);
     text-decoration: underline;
@@ -697,6 +668,13 @@ a:hover {
     color: rgb(88, 77, 77);
     text-decoration: underline;
 }
+#widget2 a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
+#id2 canvas {
+    z-index: -1;
+}
 #widget4 a {
     color: rgb(88, 77, 77);
     text-decoration: underline;
@@ -705,7 +683,7 @@ a:hover {
     color: rgb(88, 77, 77);
     text-decoration: underline;
 }
-#id3 div.caption {
+#id2 div.caption {
     line-height: 16px;
     margin-bottom: 0px;
     margin-left: 0px;
@@ -745,20 +723,6 @@ a:hover {
 #widget2 a:visited {
     color: rgb(121, 121, 121);
     text-decoration: underline;
-}
-#id3 div.caption span.title {
-    color: rgb(88, 77, 77);
-    font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 14px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 16px;
-    opacity: 1.00;
-    text-decoration: none;
-    text-transform: none;
 }
 .bumper {
     font-size: 1px;
@@ -817,6 +781,20 @@ a:hover {
     text-decoration: none;
     text-transform: none;
 }
+#id2 div.caption span.title {
+    color: rgb(88, 77, 77);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 16px;
+    opacity: 1.00;
+    text-decoration: none;
+    text-transform: none;
+}
 #widget4 a:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
@@ -845,9 +823,6 @@ a:hover {
 #widget3 a:visited {
     color: rgb(121, 121, 121);
     text-decoration: underline;
-}
-#id3 canvas {
-    z-index: -1;
 }
 #widget1 a:visited {
     color: rgb(121, 121, 121);
