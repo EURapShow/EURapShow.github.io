@@ -693,6 +693,34 @@ a:hover {
     color: rgb(1, 25, 147);
     text-decoration: underline;
 }
+#widget1 a:visited {
+    color: rgb(1, 25, 147);
+    text-decoration: underline;
+}
+#widget0 a:visited {
+    color: rgb(1, 25, 147);
+    text-decoration: underline;
+}
+#widget1 a:hover {
+    color: rgb(1, 25, 147);
+    text-decoration: underline;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget2 a:visited {
+    color: rgb(1, 25, 147);
+    text-decoration: underline;
+}
+.tinyText {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget0 a {
+    color: rgb(1, 25, 147);
+    text-decoration: none;
+}
 #widget1 a {
     color: rgb(1, 25, 147);
     text-decoration: none;
@@ -701,29 +729,13 @@ a:hover {
     color: rgb(1, 25, 147);
     text-decoration: underline;
 }
-#widget1 a:hover {
-    color: rgb(1, 25, 147);
-    text-decoration: underline;
-}
-#widget0 a:visited {
-    color: rgb(1, 25, 147);
-    text-decoration: underline;
-}
-#widget0 a {
+#widget2 a {
     color: rgb(1, 25, 147);
     text-decoration: none;
 }
-#widget1 a:visited {
+#widget2 a:hover {
     color: rgb(1, 25, 147);
     text-decoration: underline;
-}
-.spacer {
-    font-size: 1px;
-    line-height: 1px;
-}
-.tinyText {
-    font-size: 1px;
-    line-height: 1px;
 }
 .bumper {
     font-size: 1px;
