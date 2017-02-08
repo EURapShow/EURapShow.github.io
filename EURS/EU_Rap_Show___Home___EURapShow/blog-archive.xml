@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>EU Rap Show | Home | #EURapShow</title>
+    <link>http://EURS/EU_Rap_Show___Home___EURapShow</link>
+    <description></description>
+    <iweb:dateFormat>EEEE, d MMMM y</iweb:dateFormat>
+    <iweb:baseURL>http://EURS/EU_Rap_Show___Home___EURapShow</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>
