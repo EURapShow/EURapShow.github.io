@@ -87,6 +87,28 @@
     text-transform: none;
 }
 .paragraph_style_4 {
+    color: rgb(4, 51, 255);
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 25px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_5 {
     color: rgb(105, 105, 105);
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 15px;
@@ -108,7 +130,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_5 {
+.paragraph_style_6 {
     color: rgb(255, 255, 255);
     font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 13px;
@@ -138,28 +160,6 @@
     font-weight: 400;
     line-height: 24px;
 }
-.paragraph_style_6 {
-    color: rgb(255, 255, 255);
-    font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 11px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 28px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
 .paragraph_style_7 {
     color: rgb(255, 255, 255);
     font-family: 'ArialMT', 'Arial', sans-serif;
@@ -183,6 +183,28 @@
     text-transform: none;
 }
 .paragraph_style_8 {
+    color: rgb(255, 255, 255);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 11px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 28px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_9 {
     color: rgb(255, 255, 255);
     font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
     font-size: 13px;
@@ -212,7 +234,7 @@
     font-weight: 400;
     line-height: 24px;
 }
-.paragraph_style_9 {
+.paragraph_style_10 {
     color: rgb(255, 126, 0);
     font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
     font-size: 12px;
@@ -234,7 +256,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_10 {
+.paragraph_style_11 {
     color: rgb(0, 0, 0);
     font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
     font-size: 12px;
@@ -276,7 +298,7 @@
     background: rgb(0, 0, 0);
     opacity: 1.00;
 }
-.paragraph_style_11 {
+.paragraph_style_12 {
     color: rgb(255, 255, 255);
     font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 13px;
@@ -382,9 +404,6 @@
 .graphic_textbox_layout_style_default_External_471_53 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_169_150 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default_External_100_131 {
     position: relative;
 }
@@ -400,10 +419,16 @@
 .graphic_textbox_layout_style_default_External_100_100 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_218_211 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_100_160 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_1041_54 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_100_30 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
@@ -614,6 +639,18 @@ a:hover {
     color: rgb(88, 77, 77);
     text-decoration: underline;
 }
+#widget4 a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
+#widget5 a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
+#widget4 a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
 #widget2 a:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
@@ -646,6 +683,10 @@ a:hover {
 .bumper {
     font-size: 1px;
     line-height: 1px;
+}
+#widget5 a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
 }
 .spacer {
     font-size: 1px;
@@ -705,6 +746,14 @@ a:hover {
     text-align: left;
     text-decoration: none;
     text-transform: none;
+}
+#widget4 a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+#widget5 a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
 }
 #widget0 .Summary_Comment {
     color: rgb(88, 77, 77);

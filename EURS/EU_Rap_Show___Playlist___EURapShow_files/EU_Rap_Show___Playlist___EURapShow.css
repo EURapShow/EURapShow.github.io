@@ -283,9 +283,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_0_0 {
-    position: relative;
-}
 .paragraph_style_11 {
     color: rgb(0, 0, 0);
     font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
@@ -329,6 +326,9 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
+}
+.style_External_128_48 {
+    position: relative;
 }
 .Body {
     color: rgb(88, 77, 77);
@@ -433,19 +433,19 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_169_150 {
+.graphic_textbox_layout_style_default_External_202_211 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_471_53 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_100_131 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_350_36 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_100_137 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_100_131 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_253_165 {
@@ -464,11 +464,11 @@
     background: transparent;
     opacity: 1.00;
 }
+.image_cluster_layout_style_default_External_128_48 {
+    position: relative;
+}
 .image_cluster_layout_style_default {
     padding: 0px;
-}
-.image_cluster_layout_style_default_External_0_0 {
-    position: relative;
 }
 a {
     color: rgb(88, 77, 77);
@@ -730,6 +730,10 @@ a:hover {
     color: rgb(121, 121, 121);
     text-decoration: underline;
 }
+#widget6 a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
 .bumper {
     font-size: 1px;
     line-height: 1px;
@@ -738,11 +742,19 @@ a:hover {
     color: rgb(121, 121, 121);
     text-decoration: underline;
 }
+#widget6 a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
 #widget1 {
     display: none;
 }
 #widget5 a:hover {
     color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+#widget6 a:visited {
+    color: rgb(121, 121, 121);
     text-decoration: underline;
 }
 .spacer {

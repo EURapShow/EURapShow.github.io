@@ -244,22 +244,6 @@
     font-weight: 400;
     line-height: 24px;
 }
-.style_SkipStroke_1 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_2 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_3 {
-    background: rgb(0, 0, 0);
-    opacity: 1.00;
-}
 .paragraph_style_10 {
     color: rgb(255, 126, 0);
     font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
@@ -281,6 +265,22 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: rgb(0, 0, 0);
+    opacity: 1.00;
 }
 .paragraph_style_11 {
     color: rgb(0, 0, 0);
@@ -431,9 +431,6 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_169_150 {
-    position: relative;
-}
 .graphic_textbox_layout_style_default_External_471_53 {
     position: relative;
 }
@@ -453,6 +450,9 @@
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_100_100 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_293_200 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_100_160 {
@@ -649,7 +649,15 @@ a:hover {
     font-size: 1px;
     line-height: 1px;
 }
+#widget3 a:visited {
+    color: rgb(1, 25, 147);
+    text-decoration: underline;
+}
 #widget2 a:visited {
+    color: rgb(1, 25, 147);
+    text-decoration: underline;
+}
+#widget3 a:hover {
     color: rgb(1, 25, 147);
     text-decoration: underline;
 }
@@ -680,6 +688,10 @@ a:hover {
 .bumper {
     font-size: 1px;
     line-height: 1px;
+}
+#widget3 a {
+    color: rgb(1, 25, 147);
+    text-decoration: none;
 }
 body { 
     -webkit-text-size-adjust: none;
