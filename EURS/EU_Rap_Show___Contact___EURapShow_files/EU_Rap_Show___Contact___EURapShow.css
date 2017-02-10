@@ -649,15 +649,7 @@ a:hover {
     font-size: 1px;
     line-height: 1px;
 }
-#widget3 a:visited {
-    color: rgb(1, 25, 147);
-    text-decoration: underline;
-}
 #widget2 a:visited {
-    color: rgb(1, 25, 147);
-    text-decoration: underline;
-}
-#widget3 a:hover {
     color: rgb(1, 25, 147);
     text-decoration: underline;
 }
@@ -688,10 +680,6 @@ a:hover {
 .bumper {
     font-size: 1px;
     line-height: 1px;
-}
-#widget3 a {
-    color: rgb(1, 25, 147);
-    text-decoration: none;
 }
 body { 
     -webkit-text-size-adjust: none;

@@ -655,14 +655,6 @@ a:hover {
     color: rgb(88, 77, 77);
     text-decoration: underline;
 }
-#widget4 a {
-    color: rgb(88, 77, 77);
-    text-decoration: underline;
-}
-#widget4 a:visited {
-    color: rgb(121, 121, 121);
-    text-decoration: underline;
-}
 #widget2 a:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
@@ -754,10 +746,6 @@ a:hover {
     text-align: left;
     text-decoration: none;
     text-transform: none;
-}
-#widget4 a:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
 }
 #widget0 .Summary_Comment {
     color: rgb(88, 77, 77);
