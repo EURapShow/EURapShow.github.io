@@ -539,14 +539,26 @@ a.class14:hover {
     text-decoration: underline;
 }
 a.class15 {
-    color: rgb(255, 252, 121);
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
 a.class15:visited {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+a.class15:hover {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+a.class16 {
+    color: rgb(255, 252, 121);
+    text-decoration: none;
+}
+a.class16:visited {
     color: rgb(255, 252, 121);
     text-decoration: underline;
 }
-a.class15:hover {
+a.class16:hover {
     color: rgb(255, 252, 121);
     text-decoration: underline;
 }
@@ -595,16 +607,15 @@ a.class5:hover {
     color: rgb(1, 25, 147);
 }
 a.class6 {
-    color: rgb(255, 255, 255);
+    color: rgb(4, 51, 255);
     text-decoration: none;
 }
 a.class6:visited {
-    color: rgb(255, 255, 255);
+    color: rgb(4, 51, 255);
     text-decoration: none;
 }
 a.class6:hover {
-    color: rgb(255, 255, 255);
-    text-decoration: underline;
+    color: rgb(1, 25, 147);
 }
 a.class7 {
     color: rgb(255, 255, 255);
@@ -616,6 +627,7 @@ a.class7:visited {
 }
 a.class7:hover {
     color: rgb(255, 255, 255);
+    text-decoration: underline;
 }
 a.class8 {
     color: rgb(255, 255, 255);
@@ -638,7 +650,6 @@ a.class9:visited {
 }
 a.class9:hover {
     color: rgb(255, 255, 255);
-    text-decoration: underline;
 }
 a:hover {
     color: rgb(0, 0, 0);
