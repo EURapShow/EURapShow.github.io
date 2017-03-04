@@ -1,26 +1,4 @@
 .paragraph_style {
-    color: rgb(4, 51, 255);
-    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
-    font-size: 36px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 700;
-    letter-spacing: 0;
-    line-height: 50px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.paragraph_style_1 {
     color: rgb(1, 25, 147);
     font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
     font-size: 18px;
@@ -42,7 +20,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_2 {
+.paragraph_style_1 {
     color: rgb(4, 51, 255);
     font-family: 'Arial-BoldMT', 'Arial', sans-serif;
     font-size: 15px;
@@ -64,7 +42,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_3 {
+.paragraph_style_2 {
     color: rgb(88, 77, 77);
     font-family: 'Arial-BoldMT', 'Arial', sans-serif;
     font-size: 15px;
@@ -86,7 +64,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_4 {
+.paragraph_style_3 {
     color: rgb(33, 33, 33);
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 14px;
@@ -123,6 +101,28 @@
     font-style: italic;
     font-weight: 400;
     line-height: 20px;
+}
+.paragraph_style_4 {
+    color: rgb(4, 51, 255);
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 36px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 50px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
 }
 .paragraph_style_5 {
     color: rgb(105, 105, 105);
@@ -263,6 +263,10 @@
     opacity: 1.00;
 }
 .style_SkipStroke_5 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_6 {
     background: rgb(0, 0, 0);
     opacity: 1.00;
 }
@@ -445,7 +449,7 @@
 .graphic_textbox_layout_style_default_External_100_160 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_1041_54 {
+.graphic_textbox_layout_style_default_External_1060_57 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_209_211 {
@@ -473,7 +477,6 @@ a.class1:visited {
 }
 a.class1:hover {
     color: rgb(1, 25, 147);
-    text-decoration: underline;
 }
 a.class10 {
     color: rgb(255, 255, 255);
@@ -579,7 +582,6 @@ a.class4:visited {
 }
 a.class4:hover {
     color: rgb(1, 25, 147);
-    text-decoration: underline;
 }
 a.class5 {
     color: rgb(4, 51, 255);
@@ -591,7 +593,6 @@ a.class5:visited {
 }
 a.class5:hover {
     color: rgb(1, 25, 147);
-    text-decoration: underline;
 }
 a.class6 {
     color: rgb(255, 255, 255);
