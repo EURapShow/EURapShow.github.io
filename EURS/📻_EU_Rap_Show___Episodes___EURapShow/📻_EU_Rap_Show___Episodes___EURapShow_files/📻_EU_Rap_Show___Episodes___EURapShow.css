@@ -664,6 +664,10 @@ a:hover {
     text-decoration: none;
     text-transform: none;
 }
+#widget9 a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
 #widget1 a:visited {
     color: rgb(121, 121, 121);
     text-decoration: underline;
@@ -680,11 +684,19 @@ a:hover {
     color: rgb(121, 121, 121);
     text-decoration: underline;
 }
+#widget9 a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
 #widget3 a {
     color: rgb(88, 77, 77);
     text-decoration: underline;
 }
 #widget0 a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+#widget9 a:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
 }
