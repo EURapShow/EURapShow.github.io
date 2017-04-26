@@ -668,6 +668,10 @@ a:hover {
     color: rgb(88, 77, 77);
     text-decoration: underline;
 }
+#widget11 a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
 #widget1 a:visited {
     color: rgb(121, 121, 121);
     text-decoration: underline;
@@ -675,6 +679,10 @@ a:hover {
 .bumper {
     font-size: 1px;
     line-height: 1px;
+}
+#widget11 a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
 }
 #widget6 a {
     color: rgb(88, 77, 77);
@@ -810,6 +818,10 @@ a:hover {
 }
 #widget4 a {
     color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
+#widget11 a:hover {
+    color: rgb(0, 0, 0);
     text-decoration: underline;
 }
 #widget4 a:hover {

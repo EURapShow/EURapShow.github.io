@@ -728,41 +728,9 @@ a:hover {
     color: rgb(1, 25, 147);
     text-decoration: underline;
 }
-#widget1 a:visited {
+#widget5 a {
     color: rgb(1, 25, 147);
-    text-decoration: underline;
-}
-#widget0 a:visited {
-    color: rgb(1, 25, 147);
-    text-decoration: underline;
-}
-#widget1 a:hover {
-    color: rgb(1, 25, 147);
-    text-decoration: underline;
-}
-.spacer {
-    font-size: 1px;
-    line-height: 1px;
-}
-#widget3 a:visited {
-    color: rgb(1, 25, 147);
-    text-decoration: underline;
-}
-#widget2 a:visited {
-    color: rgb(1, 25, 147);
-    text-decoration: underline;
-}
-#widget3 a:hover {
-    color: rgb(1, 25, 147);
-    text-decoration: underline;
-}
-#widget4 a:hover {
-    color: rgb(1, 25, 147);
-    text-decoration: underline;
-}
-#widget4 a:visited {
-    color: rgb(1, 25, 147);
-    text-decoration: underline;
+    text-decoration: none;
 }
 #widget0 a {
     color: rgb(1, 25, 147);
@@ -772,10 +740,6 @@ a:hover {
     color: rgb(1, 25, 147);
     text-decoration: none;
 }
-#widget0 a:hover {
-    color: rgb(1, 25, 147);
-    text-decoration: underline;
-}
 #widget3 a {
     color: rgb(1, 25, 147);
     text-decoration: none;
@@ -784,7 +748,19 @@ a:hover {
     color: rgb(1, 25, 147);
     text-decoration: none;
 }
+#widget4 a {
+    color: rgb(1, 25, 147);
+    text-decoration: none;
+}
+#widget4 a:visited {
+    color: rgb(1, 25, 147);
+    text-decoration: underline;
+}
 #widget2 a:hover {
+    color: rgb(1, 25, 147);
+    text-decoration: underline;
+}
+#widget2 a:visited {
     color: rgb(1, 25, 147);
     text-decoration: underline;
 }
@@ -792,9 +768,45 @@ a:hover {
     font-size: 1px;
     line-height: 1px;
 }
-#widget4 a {
+#widget0 a:visited {
     color: rgb(1, 25, 147);
-    text-decoration: none;
+    text-decoration: underline;
+}
+#widget5 a:hover {
+    color: rgb(1, 25, 147);
+    text-decoration: underline;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget1 a:hover {
+    color: rgb(1, 25, 147);
+    text-decoration: underline;
+}
+#widget4 a:hover {
+    color: rgb(1, 25, 147);
+    text-decoration: underline;
+}
+#widget5 a:visited {
+    color: rgb(1, 25, 147);
+    text-decoration: underline;
+}
+#widget3 a:visited {
+    color: rgb(1, 25, 147);
+    text-decoration: underline;
+}
+#widget1 a:visited {
+    color: rgb(1, 25, 147);
+    text-decoration: underline;
+}
+#widget0 a:hover {
+    color: rgb(1, 25, 147);
+    text-decoration: underline;
+}
+#widget3 a:hover {
+    color: rgb(1, 25, 147);
+    text-decoration: underline;
 }
 body { 
     -webkit-text-size-adjust: none;

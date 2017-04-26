@@ -675,6 +675,10 @@ a:hover {
     color: rgb(88, 77, 77);
     text-decoration: underline;
 }
+#widget5 a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
 #widget4 a:visited {
     color: rgb(121, 121, 121);
     text-decoration: underline;
@@ -711,6 +715,10 @@ a:hover {
 .bumper {
     font-size: 1px;
     line-height: 1px;
+}
+#widget5 a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
 }
 .spacer {
     font-size: 1px;
@@ -773,6 +781,10 @@ a:hover {
 }
 #widget4 a:hover {
     color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+#widget5 a:visited {
+    color: rgb(121, 121, 121);
     text-decoration: underline;
 }
 #widget0 .Summary_Comment {
