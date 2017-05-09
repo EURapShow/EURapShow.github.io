@@ -758,6 +758,14 @@ a:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
 }
+#widget12 a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
+#widget12 a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
 #widget7 a {
     color: rgb(88, 77, 77);
     text-decoration: underline;
@@ -826,6 +834,10 @@ a:hover {
 }
 #widget4 a:hover {
     color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+#widget12 a:visited {
+    color: rgb(121, 121, 121);
     text-decoration: underline;
 }
 #widget1 a:hover {
