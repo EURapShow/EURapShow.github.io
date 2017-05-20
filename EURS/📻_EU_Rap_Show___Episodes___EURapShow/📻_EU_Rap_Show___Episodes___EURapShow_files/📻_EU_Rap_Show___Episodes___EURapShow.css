@@ -410,6 +410,9 @@
 .graphic_textbox_layout_style_default_External_350_36 {
     position: relative;
 }
+.graphic_textbox_layout_style_default_External_106_55 {
+    position: relative;
+}
 .graphic_textbox_layout_style_default_External_100_137 {
     position: relative;
 }
@@ -429,6 +432,9 @@
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_100_30 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_114_55 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
@@ -631,19 +637,60 @@ a:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
 }
+#widget3 a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
+#widget14 a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+#widget6 a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+#widget0 .Summary_Date {
+    color: rgb(88, 77, 77);
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 13px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-bottom: 6px;
+    margin-top: 0px;
+    opacity: 1.00;
+    text-align: left;
+    text-decoration: none;
+    text-transform: none;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget5 a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
 #widget8 a:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
 }
-#widget2 a {
+#widget14 a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+#widget11 a {
     color: rgb(88, 77, 77);
     text-decoration: underline;
 }
-#widget5 a:hover {
-    color: rgb(0, 0, 0);
+#widget0 a {
+    color: rgb(88, 77, 77);
     text-decoration: underline;
 }
-#widget2 a:hover {
+#widget7 a:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
 }
@@ -664,118 +711,36 @@ a:hover {
     text-decoration: none;
     text-transform: none;
 }
-#widget9 a {
-    color: rgb(88, 77, 77);
-    text-decoration: underline;
-}
-#widget11 a:visited {
-    color: rgb(121, 121, 121);
+#widget9 a:hover {
+    color: rgb(0, 0, 0);
     text-decoration: underline;
 }
 #widget1 a:visited {
     color: rgb(121, 121, 121);
     text-decoration: underline;
 }
-.bumper {
-    font-size: 1px;
-    line-height: 1px;
-}
-#widget11 a {
-    color: rgb(88, 77, 77);
-    text-decoration: underline;
-}
-#widget6 a {
-    color: rgb(88, 77, 77);
-    text-decoration: underline;
-}
-#widget5 a:visited {
+#widget8 a:visited {
     color: rgb(121, 121, 121);
     text-decoration: underline;
 }
-#widget9 a:visited {
+#widget8 a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
+#widget12 a:visited {
     color: rgb(121, 121, 121);
-    text-decoration: underline;
-}
-#widget3 a {
-    color: rgb(88, 77, 77);
-    text-decoration: underline;
-}
-#widget0 a:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
-}
-#widget9 a:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
-}
-#widget6 a:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
-}
-#widget0 a:visited {
-    color: rgb(121, 121, 121);
-    text-decoration: underline;
-}
-#widget0 .Summary_Date {
-    color: rgb(88, 77, 77);
-    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
-    font-size: 13px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 700;
-    letter-spacing: 0;
-    line-height: 15px;
-    margin-bottom: 6px;
-    margin-top: 0px;
-    opacity: 1.00;
-    text-align: left;
-    text-decoration: none;
-    text-transform: none;
-}
-#widget0 a {
-    color: rgb(88, 77, 77);
-    text-decoration: underline;
-}
-#widget0 .Summary_Separator {
-    color: rgb(88, 77, 77);
-    font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 15px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 20px;
-    margin-bottom: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    text-align: left;
-    text-decoration: none;
-    text-transform: none;
-}
-#widget3 a:hover {
-    color: rgb(0, 0, 0);
     text-decoration: underline;
 }
 #widget12 a {
     color: rgb(88, 77, 77);
     text-decoration: underline;
 }
-#widget12 a:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
-}
-#widget7 a {
+#widget5 a {
     color: rgb(88, 77, 77);
     text-decoration: underline;
 }
-.spacer {
-    font-size: 1px;
-    line-height: 1px;
-}
-#widget4 a:visited {
-    color: rgb(121, 121, 121);
+#widget11 a:hover {
+    color: rgb(0, 0, 0);
     text-decoration: underline;
 }
 #widget0 .Summary_Comment {
@@ -795,7 +760,39 @@ a:hover {
     text-decoration: none;
     text-transform: none;
 }
-#widget0 .Summary_Read_More {
+#widget2 a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
+#widget4 a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+#widget13 a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+#widget0 a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+#widget13 a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
+#widget7 a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+#widget7 a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
+#widget13 a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+#widget0 .Summary_Separator {
     color: rgb(88, 77, 77);
     font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 15px;
@@ -805,58 +802,38 @@ a:hover {
     font-weight: 400;
     letter-spacing: 0;
     line-height: 20px;
-    margin-bottom: 16px;
+    margin-bottom: 0px;
     margin-top: 0px;
     opacity: 1.00;
     text-align: left;
     text-decoration: none;
     text-transform: none;
 }
-#widget8 a:visited {
+#widget3 a:visited {
     color: rgb(121, 121, 121);
     text-decoration: underline;
 }
-#widget10 a:hover {
-    color: rgb(0, 0, 0);
+.tinyText {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget4 a {
+    color: rgb(88, 77, 77);
     text-decoration: underline;
 }
 #widget10 a:visited {
     color: rgb(121, 121, 121);
     text-decoration: underline;
 }
-#widget4 a {
-    color: rgb(88, 77, 77);
-    text-decoration: underline;
-}
-#widget11 a:hover {
+#widget0 a:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
 }
-#widget4 a:hover {
+#widget10 a:hover {
     color: rgb(0, 0, 0);
     text-decoration: underline;
 }
-#widget12 a:visited {
-    color: rgb(121, 121, 121);
-    text-decoration: underline;
-}
-#widget1 a:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
-}
-#widget3 a:visited {
-    color: rgb(121, 121, 121);
-    text-decoration: underline;
-}
-#widget1 a {
-    color: rgb(88, 77, 77);
-    text-decoration: underline;
-}
-#widget7 a:hover {
-    color: rgb(0, 0, 0);
-    text-decoration: underline;
-}
-#widget8 a {
+#widget14 a {
     color: rgb(88, 77, 77);
     text-decoration: underline;
 }
@@ -877,29 +854,82 @@ a:hover {
     text-decoration: none;
     text-transform: none;
 }
-#widget7 a:visited {
+#widget6 a:visited {
     color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+#widget1 a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
+#widget1 a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+.bumper {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget9 a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+#widget2 a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+#widget9 a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
+#widget4 a:hover {
+    color: rgb(0, 0, 0);
     text-decoration: underline;
 }
 #widget10 a {
     color: rgb(88, 77, 77);
     text-decoration: underline;
 }
-#widget5 a {
+#widget3 a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+#widget6 a {
     color: rgb(88, 77, 77);
     text-decoration: underline;
 }
-.tinyText {
-    font-size: 1px;
-    line-height: 1px;
-}
-#widget6 a:visited {
-    color: rgb(121, 121, 121);
+#widget12 a:hover {
+    color: rgb(0, 0, 0);
     text-decoration: underline;
 }
 #widget2 a:visited {
     color: rgb(121, 121, 121);
     text-decoration: underline;
+}
+#widget5 a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+#widget11 a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+#widget0 .Summary_Read_More {
+    color: rgb(88, 77, 77);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 16px;
+    margin-top: 0px;
+    opacity: 1.00;
+    text-align: left;
+    text-decoration: none;
+    text-transform: none;
 }
 body { 
     -webkit-text-size-adjust: none;

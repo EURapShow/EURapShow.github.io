@@ -1,4 +1,4 @@
-// Created by iWeb 3.0.4 local-build-20170509
+// Created by iWeb 3.0.4 local-build-20170520
 
 function createMediaStream_id2()
 {return IWCreatePhotocast("http://EURS/%F0%9F%93%BB_EU_Rap_Show___Live___EURapShow_2_files/rss.xml",false);}
@@ -17,7 +17,7 @@ function onStubPage()
 if(window.stubPage)
 {onStubPage();}
 setTransparentGifURL('Media/transparent.gif');function applyEffects()
-{var registry=IWCreateEffectRegistry();registry.registerEffects({stroke_1:new IWStrokeParts([{rect:new IWRect(-1,1,2,367),url:'%F0%9F%93%BB_EU_Rap_Show___Live___EURapShow_2_files/stroke.png'},{rect:new IWRect(-1,-1,2,2),url:'%F0%9F%93%BB_EU_Rap_Show___Live___EURapShow_2_files/stroke_1.png'},{rect:new IWRect(1,-1,657,2),url:'%F0%9F%93%BB_EU_Rap_Show___Live___EURapShow_2_files/stroke_2.png'},{rect:new IWRect(658,-1,2,2),url:'%F0%9F%93%BB_EU_Rap_Show___Live___EURapShow_2_files/stroke_3.png'},{rect:new IWRect(658,1,2,367),url:'%F0%9F%93%BB_EU_Rap_Show___Live___EURapShow_2_files/stroke_4.png'},{rect:new IWRect(658,368,2,2),url:'%F0%9F%93%BB_EU_Rap_Show___Live___EURapShow_2_files/stroke_5.png'},{rect:new IWRect(1,368,657,2),url:'%F0%9F%93%BB_EU_Rap_Show___Live___EURapShow_2_files/stroke_6.png'},{rect:new IWRect(-1,368,2,2),url:'%F0%9F%93%BB_EU_Rap_Show___Live___EURapShow_2_files/stroke_7.png'}],new IWSize(659,369)),stroke_0:new IWEmptyStroke()});registry.applyEffects();}
+{var registry=IWCreateEffectRegistry();registry.registerEffects({stroke_0:new IWEmptyStroke(),stroke_1:new IWStrokeParts([{rect:new IWRect(-1,1,2,367),url:'%F0%9F%93%BB_EU_Rap_Show___Live___EURapShow_2_files/stroke.png'},{rect:new IWRect(-1,-1,2,2),url:'%F0%9F%93%BB_EU_Rap_Show___Live___EURapShow_2_files/stroke_1.png'},{rect:new IWRect(1,-1,657,2),url:'%F0%9F%93%BB_EU_Rap_Show___Live___EURapShow_2_files/stroke_2.png'},{rect:new IWRect(658,-1,2,2),url:'%F0%9F%93%BB_EU_Rap_Show___Live___EURapShow_2_files/stroke_3.png'},{rect:new IWRect(658,1,2,367),url:'%F0%9F%93%BB_EU_Rap_Show___Live___EURapShow_2_files/stroke_4.png'},{rect:new IWRect(658,368,2,2),url:'%F0%9F%93%BB_EU_Rap_Show___Live___EURapShow_2_files/stroke_5.png'},{rect:new IWRect(1,368,657,2),url:'%F0%9F%93%BB_EU_Rap_Show___Live___EURapShow_2_files/stroke_6.png'},{rect:new IWRect(-1,368,2,2),url:'%F0%9F%93%BB_EU_Rap_Show___Live___EURapShow_2_files/stroke_7.png'}],new IWSize(659,369))});registry.applyEffects();}
 function hostedOnDM()
 {return false;}
 function onPageLoad()
